@@ -1,2 +1,3 @@
-# wabot-aq-sticker-fix
-Fixed plugin and lib for wabot-aq
+# Whatsapp Bot Sticker Fix
+Fixed plugins and lib for [wabot-aq](https://github.com/Nurutomo/wabot-aq)  
+Required ffmpeg.
